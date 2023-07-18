@@ -1,0 +1,893 @@
+[{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-02-01T23:51:00.875Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Escritor X",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-02-01T23:51:43.712Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Escritor Y",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-02-01T23:52:31.096Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Rota dos Escritores",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-02-01T23:54:30.335Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Point object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-02-01T23:56:41.129Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Point object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-02-14T16:13:03.045Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "José Valentim Fialho de Almeida",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-02-14T16:14:00.661Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Pais das Uvas",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-02-14T16:18:20.069Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Point object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-02-14T16:21:05.140Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "Point object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-02-14T16:28:49.498Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "PointImage object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-02-14T16:29:36.442Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "PointImage object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-02-22T21:38:02.026Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "António Aleixo",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-02-22T21:40:06.481Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "5",
+        "object_repr": "Francisco Xavier de Ataíde Oliveira",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-02-22T21:43:35.222Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "6",
+        "object_repr": "Abü-lRabï Sulayman ibn ‘Isa al-Kutayyir",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-02-22T21:44:33.489Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "Itinerário Literário de Loulé",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-02-22T21:55:22.736Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "Point object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-02-22T22:05:57.505Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Point object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-02-22T23:13:42.787Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "7",
+        "object_repr": "Point object (7)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-02-22T23:17:38.192Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Point object (8)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-02-22T23:23:55.904Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "9",
+        "object_repr": "Point object (9)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-02-22T23:31:24.306Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "10",
+        "object_repr": "Point object (10)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}, {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-02-22T23:31:33.695Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "10",
+        "object_repr": "Point object (10)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Sequence number\"]}}]"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add point",
+        "content_type": 7,
+        "codename": "add_point"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change point",
+        "content_type": 7,
+        "codename": "change_point"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete point",
+        "content_type": 7,
+        "codename": "delete_point"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view point",
+        "content_type": 7,
+        "codename": "view_point"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add writer",
+        "content_type": 8,
+        "codename": "add_writer"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change writer",
+        "content_type": 8,
+        "codename": "change_writer"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete writer",
+        "content_type": 8,
+        "codename": "delete_writer"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view writer",
+        "content_type": 8,
+        "codename": "view_writer"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add route",
+        "content_type": 9,
+        "codename": "add_route"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change route",
+        "content_type": 9,
+        "codename": "change_route"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete route",
+        "content_type": 9,
+        "codename": "delete_route"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view route",
+        "content_type": 9,
+        "codename": "view_route"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add point image",
+        "content_type": 10,
+        "codename": "add_pointimage"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change point image",
+        "content_type": 10,
+        "codename": "change_pointimage"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete point image",
+        "content_type": 10,
+        "codename": "delete_pointimage"
+    }
+}, {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view point image",
+        "content_type": 10,
+        "codename": "view_pointimage"
+    }
+}, {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$y6EEce6fWGLxPfyAixgFJz$Hw9gNqqSdF1u3eRy7Xx3ynj9+xhcUDnSgueQlGLk4qI=",
+        "last_login": "2023-02-14T16:11:11.907Z",
+        "is_superuser": true,
+        "username": "lg",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-02-01T23:46:28.542Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}, {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+}, {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+}, {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+}, {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+}, {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+}, {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+}, {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "amrl",
+        "model": "point"
+    }
+}, {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "amrl",
+        "model": "writer"
+    }
+}, {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "amrl",
+        "model": "route"
+    }
+}, {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "amrl",
+        "model": "pointimage"
+    }
+}, {
+    "model": "sessions.session",
+    "pk": "2anx0a1g8t4uu0m9qv2x3i7tw7va8lg8",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSGlwxRw6d5vIMMMSNWUpI-V8d-1SRe6veec-1KRtrXGbclzHEWdlVGn3y0RP_K0A7nTdGua27TOY9K7og-66GuT_Lwc7t9BpaV-68ExDAk8Yw7kCJwZxKFNYjqGDrAgWENI3vkSSo8l9cLOCxlgm7qg3h_TOjek:1pRxtf:vMXpanfZgOjEaS3FcubfZhXxFfeS05WFZJU8gkSxMIo",
+        "expire_date": "2023-02-28T16:11:11.911Z"
+    }
+}, {
+    "model": "sessions.session",
+    "pk": "qcrudt67ggiewdf9e2qtyh9yxup3pmmk",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSGlwxRw6d5vIMMMSNWUpI-V8d-1SRe6veec-1KRtrXGbclzHEWdlVGn3y0RP_K0A7nTdGua27TOY9K7og-66GuT_Lwc7t9BpaV-68ExDAk8Yw7kCJwZxKFNYjqGDrAgWENI3vkSSo8l9cLOCxlgm7qg3h_TOjek:1pPUnq:nqCvIQNOpR6IcwFctSWStlMSRb4pieLyRXZQ4HHTe4M",
+        "expire_date": "2023-02-21T20:42:58.901Z"
+    }
+}, {
+    "model": "sessions.session",
+    "pk": "utip6tqfpst6m9xb514axyoi6e507714",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSGlwxRw6d5vIMMMSNWUpI-V8d-1SRe6veec-1KRtrXGbclzHEWdlVGn3y0RP_K0A7nTdGua27TOY9K7og-66GuT_Lwc7t9BpaV-68ExDAk8Yw7kCJwZxKFNYjqGDrAgWENI3vkSSo8l9cLOCxlgm7qg3h_TOjek:1pNMpQ:ys8qsfilZRs6P4BGdezTfEd-37DgeDRIqi5VZv20RKU",
+        "expire_date": "2023-02-15T23:47:48.214Z"
+    }
+}, {
+    "model": "amrl.writer",
+    "pk": 1,
+    "fields": {
+        "name": "Escritor X",
+        "birth_date": "1952-02-01",
+        "nationality": "Portuguesa"
+    }
+}, {
+    "model": "amrl.writer",
+    "pk": 2,
+    "fields": {
+        "name": "Escritor Y",
+        "birth_date": "1845-08-12",
+        "nationality": "Espanhol"
+    }
+}, {
+    "model": "amrl.writer",
+    "pk": 3,
+    "fields": {
+        "name": "José Valentim Fialho de Almeida",
+        "birth_date": "1857-05-07",
+        "nationality": "Portuguesa"
+    }
+}, {
+    "model": "amrl.writer",
+    "pk": 4,
+    "fields": {
+        "name": "António Aleixo",
+        "birth_date": "1899-02-18",
+        "nationality": "Portuguese"
+    }
+}, {
+    "model": "amrl.writer",
+    "pk": 5,
+    "fields": {
+        "name": "Francisco Xavier de Ataíde Oliveira",
+        "birth_date": "1842-10-02",
+        "nationality": "Portuguese"
+    }
+}, {
+    "model": "amrl.writer",
+    "pk": 6,
+    "fields": {
+        "name": "Abü-lRabï Sulayman ibn ‘Isa al-Kutayyir",
+        "birth_date": "1400-05-07",
+        "nationality": "Mours"
+    }
+}, {
+    "model": "amrl.route",
+    "pk": 1,
+    "fields": {
+        "name": "Rota dos Escritores",
+        "city": "Lamego",
+        "writer": [1, 2]
+    }
+}, {
+    "model": "amrl.route",
+    "pk": 2,
+    "fields": {
+        "name": "Pais das Uvas",
+        "city": "Vila de Frades",
+        "writer": [3]
+    }
+}, {
+    "model": "amrl.route",
+    "pk": 3,
+    "fields": {
+        "name": "Itinerário Literário de Loulé",
+        "city": "Louilé",
+        "writer": [4, 5, 6]
+    }
+}, {
+    "model": "amrl.point",
+    "pk": 1,
+    "fields": {
+        "title": "Ponto 1",
+        "text": "As armas e os farois apagados",
+        "sequence_number": 1,
+        "location": "SRID=4326;POINT (-7.812759875163944 41.09673675333326)",
+        "speech_file": "",
+        "route": 1
+    }
+}, {
+    "model": "amrl.point",
+    "pk": 2,
+    "fields": {
+        "title": "Ponto 2",
+        "text": "Vai Leonor pela verdura, não larga nem segura",
+        "sequence_number": 2,
+        "location": "SRID=4326;POINT (-7.8153991688331494 41.09979291042843)",
+        "speech_file": "",
+        "route": 1
+    }
+}, {
+    "model": "amrl.point",
+    "pk": 3,
+    "fields": {
+        "title": "Estátua a Fialho de Almeida",
+        "text": "Fialho de Almeida nasceu em Vila de Frades, Vidigueira, no dia 7 de Maio de 1857, filho de um mestre-escola.\r\n\r\nRealizou os estudos secundários num colégio de Lisboa, entre 1866 e 1871. Empregou-se numa farmácia, e formou-se em Medicina, entre 1878 e 1885. Em 1893 voltou à sua terra natal, onde desposou uma senhora abastada, que faleceu logo no ano seguinte e da qual não teve descendência.",
+        "sequence_number": 1,
+        "location": "SRID=4326;POINT (-7.821214197979144 38.212372348876805)",
+        "speech_file": "",
+        "route": 2
+    }
+}, {
+    "model": "amrl.point",
+    "pk": 4,
+    "fields": {
+        "title": "Antiga casa de Fialho de Almeida",
+        "text": "Em 7 de Maio de 1857, nascia um novo talento em Vila de Frades. A tremenda capacidade que acabaria por revelar no campo da Escrita determinou que Fialho de Almeida fosse um dos principais eruditos da Literatura Portuguesa na transição entre os Séculos XIX e XX. Os seus textos constituem fontes essenciais que descrevem um atribulado período de transição da Monarquia Constitucional para a República Portuguesa.",
+        "sequence_number": 2,
+        "location": "SRID=4326;POINT (-7.823102473123613 38.21406673842238)",
+        "speech_file": "",
+        "route": 2
+    }
+}, {
+    "model": "amrl.point",
+    "pk": 5,
+    "fields": {
+        "title": "Mercado Municipal",
+        "text": "Começamos o nosso passeio literário em frente ao Mercado Municipal de Loulé, símbolo da riquíssima atividade agrícola e comercial que caracterizou a história da cidade. Este é o inequívoco ex-líbris arquitetónico da cidade e, naturalmente, um espaço central por excelência.\r\nProjetado pelo arquiteto lisboeta Alfredo Costa Campos, num estilo revivalista e de inspiração árabe, o mercado foi inaugurado em 1908, apesar de limitações económicas não terem permitido a sua construção integral. \r\nNa verdade, foi apenas no princípio deste século que foram finalmente acrescentados os dois torreões a sul do edifício que constavam do projeto original. À época da sua construção, a decisão sobre a \r\n localização do mercado não foi consensual, mas, por fim, a câmara optou por construí-lo ao lado do edifício dos Paços do Concelho, atual Câmara Municipal, à sua direita, tendo sido para isso necessário expropriar e demolir propriedades (Câmara Municipal de Loulé, s.d.).\r\nEscolhemos o mercado para iniciar este passeio porque, efetivamente, a história de Loulé foi em grande parte determinada pelos seus recursos territoriais, especialmente agrícolas, e pela sua centralidade geográfica. A cidade é sede de um dos maiores concelhos de Portugal, com uma área de quase 800 km2, um território riquíssimo e diverso que nasce na serra algarvia, a norte, e se estende até ao litoral, onde se encontram alguns dos mais conhecidos complexos turísticos do país, como Vilamoura, Quinta do Lago e Vale do Lobo.",
+        "sequence_number": 1,
+        "location": "SRID=4326;POINT (-8.02244424708276 37.138835063313785)",
+        "speech_file": "speech/Screenshot_from_2023-02-22_21-52-23.png",
+        "route": 3
+    }
+}, {
+    "model": "amrl.point",
+    "pk": 6,
+    "fields": {
+        "title": "Café Central ou Café Calcinha",
+        "text": "Inicialmente chamado Café Central, este estabelecimento foi inaugurado em 1927 (Direção-Geral\r\ndo Património Cultural, 2018). O seu primeiro proprietário foi José Domingos Cavaco, alcunhado de Calcinha, nome pelo qual o café acabaria por ficar conhecido.\r\nO Calcinha teve a primeira mesa de bilhar do Algarve e era frequentado por uma clientela selecionada, naturalmente masculina.\r\nCom o tempo, o café abriu-se a uma classe mais popular, mantendo, no entanto, um sectarismo evidente na distribuição dos clientes pelo espaço: os “finos” de um lado e os “pobres” do outro.\r\nEssa divisão inequívoca entre classes não impedia que o Calcinha fosse um ponto de encontro onde se reuniam as personalidades mais conhecidas da vida cultural louletana, independentemente do seu estatuto social. De entre os seus frequentadores, o mais célebre representava, curiosamente, a franja mais popular.\r\n\r\nPobres, para que nascem eles?...\r\nÉ fácil de compreender:\r\nNascem p’ra escravos daqueles\r\nQue podem fugir de o ser.\r\n\r\nQuem trabalha e mata a fome\r\nNão come o pão de ninguém;\r\nQuem não ganha o pão que come\r\nCome sempre o pão de alguém.\r\n\r\nEntre grandes e pequenos\r\nFicávamos quase iguais,\r\nDando a uns um pouco menos\r\nE a outros um pouco mais.\r\n\r\n\r\nAntónio Aleixo (1978: 145)",
+        "sequence_number": 2,
+        "location": "SRID=4326;POINT (-8.023109434918352 37.13958770233807)",
+        "speech_file": "speech/Screenshot_from_2023-02-22_22-05-47.png",
+        "route": 3
+    }
+}, {
+    "model": "amrl.point",
+    "pk": 7,
+    "fields": {
+        "title": "Largo de São Francisco (busto de\r\nAtaíde Oliveira)",
+        "text": "O nosso passeio continua pela rua pedonal que segue entre a Rua da Barbacã e a estrada para\r\n Quarteira. Esta parte comercial da cidade testemunha a imigração de andaluzes que se estabeleceram em Loulé ao longo do século XIX e desenvolveram o comércio e a indústria locais (Aleixo, 2018). Estes imigrantes trouxeram também novos produtos que impressionaram os louletanos e mudaram a sua\r\ncultura para sempre, como os gelados ou a cerveja de pressão. Estas comunidades espanholas, dado o seu empreendedorismo, alcançaram um poderio económico e social destacado e deram azo, \r\ntambém, ao termo usado pelos louletanos para designar forasteiros, numa alusão aos reis de Espanha no tempo da União Ibérica: “filipes”.\r\nPercorra a rua até ao fim, desembocando no Largo de São Francisco, onde encontra o busto de Francisco Xavier de Ataíde.\r\nOliveira",
+        "sequence_number": 3,
+        "location": "SRID=4326;POINT (-8.025689719990293 37.14053276687146)",
+        "speech_file": "speech/Screenshot_from_2023-02-22_23-11-53.png",
+        "route": 3
+    }
+}, {
+    "model": "amrl.point",
+    "pk": 8,
+    "fields": {
+        "title": "Igreja de São Francisco",
+        "text": "A Igreja de São Francisco foi erguida no século XVIII sobre uma antiga ermida quinhentista (e-cultura.pt, 2016). No interior, destacam-se o retábulo de talha barroca e o sacrário, singular na região, representando um pelicano de asas abertas e com o bico a rasgar o peito, do qual jorra uma torrente de sangue que alimenta três crias aos seus pés. É aqui, ainda, que descansa a figura da Nossa Senhora\r\nda Piedade no início das comemorações pascais da Festa da Mãe Soberana, efeméride louletana que é talvez a mais conhecida manifestação religiosa e popular do Algarve.\r\n\r\nSe cá voltasse Jesus,\r\nO mártir, filho do homem,\r\nEscorraçava os que comem\r\nÀ sombra da sua cruz.\r\n\r\nAntónio Aleixo (1978: 143)",
+        "sequence_number": 4,
+        "location": "SRID=4326;POINT (-8.025684355572295 37.14023770274164)",
+        "speech_file": "speech/Screenshot_from_2023-02-22_23-17-22.png",
+        "route": 3
+    }
+}, {
+    "model": "amrl.point",
+    "pk": 9,
+    "fields": {
+        "title": "Castelo de Loulé",
+        "text": "Para isso, siga pela Rua Condestável D. Nuno Álvares Pereira, continuando na direção de regresso ao centro da cidade e das muralhas do castelo (foto 8), que se veem ao fundo.\r\nAo chegar ao Largo D. Afonso III, escolha um lugar diante das muralhas para continuar a leitura.\r\nDe origem árabe, o castelo foi reconstruído no século XIII e possuía um grande perímetro, conforme\r\ncomprovam algumas reminiscências, entre elas, a torre do relógio junto à Câmara, já referida, ou a Porta de Faro, por onde irá ainda passar o nosso trajeto.\r\nNeste local, e como indica o próprio nome da Rua da Barbacã, 8 adivinha-se a existência do fosso\r\nque circundava a muralha. Já não há, no entanto, vestígios da alcáçova original, que ficaria na\r\nalcaidaria do castelo, espaço que hoje alberga o Museu Municipal.\r\nEste ponto de paragem, diante das muralhas do castelo, é ideal para referir a lenda do nome de Loulé,\r\nparte do riquíssimo património que tão dedicadamente tem sido recolhido desde o século XIX, como referimos, por Ataíde Oliveira e, mais tarde, entre outros, por Idália Farinho Custódio. \r\n\r\n\r\nO nome de Loulé\r\n\r\nDizem que o nome de Loulé não foi logo assim.\r\nDizem que foi um rei que vinha para cá com os soldados dele, e, quando\r\nvinha já chegando ao pé do castelo, o rei viu uma grande árvore, lá junto.\r\nDepois, começou a perguntar aos soldados dele, que eram muitos, que\r\nárvore seria aquela, que estava mesmo rentinho ao castelo.\r\nEntão, uns soldados diziam assim:\r\n— Aquilo é uma alfarrobeira!\r\nE outros diziam:\r\n— Tem jeito de ser é loendro!\r\nE cada um dizia uma árvore que lhe vinha à ideia!...\r\nAté que vai um soldado é diz assim:\r\n— Pois, cá para mim, é mas é um loureiro!\r\nEntão, o rei convenceu-se mesmo que era um loureiro. Acreditou nesse\r\nsoldado e disse assim:\r\n— Pois, que seja, “Lauro é”, é isso.\r\nPronto. E daí, com o tempo, deu Loulé.\r\n(Custódio, Galhoz & Cardigos, 2013: 183-184)",
+        "sequence_number": 5,
+        "location": "SRID=4326;POINT (-8.024021385983314 37.13966467636157)",
+        "speech_file": "speech/Screenshot_from_2023-02-22_23-19-50.png",
+        "route": 3
+    }
+}, {
+    "model": "amrl.point",
+    "pk": 10,
+    "fields": {
+        "title": "Jardim dos Amuados/ Igreja Matriz",
+        "text": "O Jardim dos Amuados,\r\nconstruído sobre um antigo\r\ncemitério (Simões, 2012: 27), é\r\nassim chamado, aparentemente,\r\npor causa da disposição dos\r\nbancos, costas com costas. Se lhe\r\nfor possível entrar, vale a pena\r\napreciar a panorâmica, que inclui\r\na Ermida de Nossa Senhora da\r\nPiedade, de que já falámos.",
+        "sequence_number": 6,
+        "location": "SRID=4326;POINT (-8.023551999404399 37.13743453610782)",
+        "speech_file": "speech/Screenshot_from_2023-02-22_23-19-50_ej8IsK9.png",
+        "route": 3
+    }
+}, {
+    "model": "amrl.pointimage",
+    "pk": 1,
+    "fields": {
+        "name": "Escola  Primaria Fialho de Almeida",
+        "caption": "Estatua do Filaho de Almeida",
+        "image": "point/download.jpeg",
+        "point": 3
+    }
+}, {
+    "model": "amrl.pointimage",
+    "pk": 2,
+    "fields": {
+        "name": "Casa do Fialho de Almeida",
+        "caption": "Casa do Fialho de Almeida",
+        "image": "point/images_1.jpeg",
+        "point": 4
+    }
+}]

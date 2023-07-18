@@ -1,0 +1,5 @@
+{
+    "files.maxMemoryForLargeFilesMB": 2048,
+    "C_Cpp.intelliSenseMemoryLimit": 2048,
+    "typescript.tsserver.maxTsServerMemory": 2048
+}
